@@ -5,7 +5,6 @@
 💻 Atualmente estudando:
 - Python
 - Lógica de Programação
-- Git e GitHub
 
 🚀 Objetivo:
 Conquistar minha primeira oportunidade na área de tecnologia e evoluir como desenvolvedor.
